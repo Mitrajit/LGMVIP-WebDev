@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Arial Bold';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Arial BoldMT'),
+        url('../fonts/arial/Arial-BoldMT.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Helvetica'), url('Helvetica.woff') format('woff');
+}
